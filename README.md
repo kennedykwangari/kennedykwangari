@@ -1,5 +1,5 @@
 
-![kennedykwangari](Dr. Andrew Ng Handwritten note.jpeg)
+![kennedykwangari](kennedykwangari/Dr. Andrew Ng Handwritten note.jpeg)
 
 **Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
 
