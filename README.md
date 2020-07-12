@@ -1,10 +1,10 @@
-Kennedy Wangari is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
+**Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
 
 He has created unparalleled connections and provided incredible value within the data science community around the world, working in the enterprise sector to solve really hard, but interesting and meaningful business problems, invited to speak at various local and global highly esteemed AI Workshops and meetups.
 
 As a Data Scientist, Kennedy focuses on Marketing and Financial Intelligence to drive and achieve company’s marketing and financial goals through building intelligent and smart data products.
 
-As an NLP Engineer, he focuses and tackles problems in natural language understanding, life-long learning and low resource languages. He designs and builds efficient, self-learning NLP products that seek to disrupt and move from just clicks to seamless conversations.
+As an **NLP Engineer**, he focuses and tackles problems in natural language understanding, life-long learning and low resource languages. He designs and builds efficient, self-learning NLP products that seek to disrupt and move from just clicks to seamless conversations.
 
 He takes leads in championing for AI for Good, tackling and solving complex business and societal problems / challenges, geared towards making real-world social, health, wellbeing and financial impact on companies and people’s life through leveraging AI Technology.
 
