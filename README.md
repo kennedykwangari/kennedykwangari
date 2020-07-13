@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg)
+
 
 
 **Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
@@ -10,7 +10,7 @@ As a **Data Scientist**, Kennedy focuses on Marketing and Financial Intelligence
 
 As an **NLP Engineer**, he focuses and tackles problems in natural language understanding, life-long learning and low resource languages. He designs and builds efficient, self-learning NLP products that seek to disrupt and move from just clicks to seamless conversations.
 
-![kennedykwangari](images/Thankyou.jpeg)
+![alt text](https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg)
 
 
 He takes leads in championing for AI for Good, tackling and solving complex business and societal problems / challenges, geared towards making real-world social, health, wellbeing and financial impact on companies and people’s life through leveraging AI Technology.
