@@ -1,5 +1,6 @@
 
-Hi there 👋 
+### Hi there 👋 
+
 **Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
 
 He has created unparalleled connections and provided incredible value within the data science community around the world, working in the enterprise sector to solve really hard, but interesting and meaningful business problems, invited to speak at various local and global highly esteemed AI Workshops and meetups.
