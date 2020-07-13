@@ -25,3 +25,13 @@ As an **AI Community Leader** and Innovator, he is passionate about tech communi
 
 He is actively involved with various AI Hubs and data-centric communities (**AWS Educate Cloud Ambassador Program**, **deeplearning.ai Ambassador**, and the **Google Developer Student Clubs**), empowering, supporting, mentoring and strengthening them, to build, innovate, shape, transform and ride with the wave of Artificial Intelligence.
 
+
+Connect with me 😃
+
+<a href="https://www.reddit.com/user/KennedyKWangari">Reddit Profile</a>
+
+<a href="https://www.linkedin.com/in/kennedykwangari/">LinkedIn Profile</a>
+
+<a href="https://twitter.com/kennedykwangari/"> Twitter Profile</a>
+
+
