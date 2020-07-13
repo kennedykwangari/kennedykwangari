@@ -13,7 +13,7 @@ As an **NLP Engineer**, he focuses and tackles problems in natural language unde
 
 
 <p align="center">
-  <img width="650" height="450" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg">
+  <img width="630" height="450" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg">
 </p>
 
 
