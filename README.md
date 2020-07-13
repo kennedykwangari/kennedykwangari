@@ -10,7 +10,13 @@ As a **Data Scientist**, Kennedy focuses on Marketing and Financial Intelligence
 
 As an **NLP Engineer**, he focuses and tackles problems in natural language understanding, life-long learning and low resource languages. He designs and builds efficient, self-learning NLP products that seek to disrupt and move from just clicks to seamless conversations.
 
-<img src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg" width="620" height="450">
+
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg">
+</p>
+
+
 
 
 He takes leads in championing for AI for Good, tackling and solving complex business and societal problems / challenges, geared towards making real-world social, health, wellbeing and financial impact on companies and people’s life through leveraging AI Technology.
