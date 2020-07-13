@@ -31,6 +31,6 @@ Connect with me 😃
 
 <a href="https://www.reddit.com/user/KennedyKWangari">Reddit</a> 
 
-<a href="https://twitter.com/kennedykwangari/"> Twitter Profile</a>
+<a href="https://twitter.com/kennedykwangari/"> Twitter</a>
 
 
