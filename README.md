@@ -1,7 +1,3 @@
-
-
-
-
 **Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
 
 He has created unparalleled connections and provided incredible value within the data science community around the world, working in the enterprise sector to solve really hard, but interesting and meaningful business problems, invited to speak at various local and global highly esteemed AI Workshops and meetups.
@@ -26,11 +22,14 @@ As an **AI Community Leader** and Innovator, he is passionate about tech communi
 He is actively involved with various AI Hubs and data-centric communities (**AWS Educate Cloud Ambassador Program**, **deeplearning.ai Ambassador**, and the **Google Developer Student Clubs**), empowering, supporting, mentoring and strengthening them, to build, innovate, shape, transform and ride with the wave of Artificial Intelligence.
 
 
+
+Do check out and follow my work on Natural Language Processing and Data Science Journalism on Medium, Reddit, Linkedin and on my Personal Blog.
 Connect with me 😃
 
-<a href="https://www.reddit.com/user/KennedyKWangari">Reddit Profile</a>
 
-<a href="https://www.linkedin.com/in/kennedykwangari/">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/kennedykwangari/">LinkedIn</a>  
+
+<a href="https://www.reddit.com/user/KennedyKWangari">Reddit</a> 
 
 <a href="https://twitter.com/kennedykwangari/"> Twitter Profile</a>
 
