@@ -1,4 +1,6 @@
 
+![alt text](https://github.com/kennedykwangari/kennedykwangari/blob/master/images/Thankyou.jpeg)
+
 
 **Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
 
