@@ -32,6 +32,7 @@ Connect with me 😃
 <a href="https://www.reddit.com/user/KennedyKWangari">Reddit</a> 
 
 <a href="https://twitter.com/kennedykwangari/"> Twitter</a>
+
 <a href="https://medium.com/@kennedykwangari/"> Medium</a>
 
 
