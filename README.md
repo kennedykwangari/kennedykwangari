@@ -33,6 +33,7 @@ Connect with me 😃
 
 <a href="https://twitter.com/kennedykwangari/"> Twitter</a>
 
-<a href="https://medium.com/@kennedykwangari/"> Medium</a>
+<a href="https://medium.com/@kennedykwangari/"> Medium Blog</a>
 
 
+          
