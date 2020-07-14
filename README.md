@@ -1,5 +1,5 @@
 
-### Hi there 👋 
+### Hi there 👋 Introducing Kennedy Wangari.. 
 
 **Kennedy Wangari** is a highly talented and dedicated Data Scientist, Natural Language Processing Engineer, and an AI Community Leader & Innovator.
 
