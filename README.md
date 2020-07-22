@@ -5,7 +5,7 @@ He has created unparalleled connections and provided incredible value within the
 
 As a **Data Scientist**, Kennedy focuses on Marketing and Financial Intelligence to drive and achieve company’s marketing and financial goals through building intelligent and smart data products.
 
-As an **NLP Engineer**, he focuses and tackles problems in natural language understanding, life-long learning and low resource languages. He designs and builds efficient, self-learning NLP products that seek to disrupt and move from just clicks to seamless conversations.
+His research work focuses on tackling problems in Natural Language Understanding majoring in Automatic Text Summarization, Question Answering, and Information Extraction areas.  He is building end to end, efficient and self-learning NLP solutions that seek to address complexities in true understanding of natural language utterances and its unspoken components, moving from just clicks to seamless conversations.
 
 
 
@@ -16,7 +16,7 @@ As an **NLP Engineer**, he focuses and tackles problems in natural language unde
 
 
 
-He takes leads in championing for AI for Good, tackling and solving complex business and societal problems / challenges, geared towards making real-world social, health, wellbeing and financial impact on companies and people’s life through leveraging AI Technology.
+He takes leads in championing Artificial Intelligence for Social Good, tackling and solving complex business and societal problems/challenges through the lens of the UN SDGs. His work is geared towards making real-world social, health, wellbeing, and financial impact for companies and people’s lives, and bringing the world into a more equitable, prosperous, and sustainable path.
 
 As an **AI Community Leader** and Innovator, he is passionate about tech communities, innovations, and harnessing the power of data and AI technology to make a better and easier tomorrow.
 
