@@ -1,11 +1,12 @@
+#### **Kennedy Wangari** is a global Data Scientist, based in Nairobi Kenya. An AI Community Lead, Innovator, and Data Journalist who is passionate about tech communities, and harnessing the power of data and innovative AI technology to make easier, and better lives tomorrow.
+  
+He is a firm believer in open source: that words, knowledge, and ideas should be accessible to everyone.
 
- #### **Kennedy Wangari** is a highly talented and dedicated Natural Language Processing Engineer, AI Community Leader and Innovator.
+Through our work / activities with AI Communities/ Hubs globally, we are providing access to world-class AI technology education, and building a best-share learning platform that converges our young people to work together on common grounds, with aligned visions, and shared set of values.
 
-He has created unparalleled connections and provided incredible value within the data science community around the world, working in the enterprise sector to solve really hard, but interesting and meaningful business problems, invited to speak at various local and global highly esteemed AI Workshops and meetups.
+We are providing the young people with a voice, and platform to engage, discuss, learn, share, build, collaborate, shape how AI technology is being used, and empowering them to play their guiding role in steering the best possible future development of AI.
 
-As a **Data Scientist**, Kennedy focuses on Marketing and Financial Intelligence to drive and achieve company’s marketing and financial goals through building intelligent and smart data products.
-
-His **research work** focuses on tackling problems in **Natural Language Understanding** majoring in **Automatic Text Summarization**, **Question Answering**, and **Information Extraction** areas.  He is building end to end, efficient and self-learning NLP solutions that seek to address complexities in true understanding of natural language utterances and its unspoken components, moving from just clicks to seamless conversations.
+Kennedy has created unparalleled meaningful connections, and provided incredible value, and contributions within the data science/ AI community around the world, taking leads in championing Artificial Intelligence for Good, tackling, and solving complex business, and societal problems/ challenges through the lens the UN SDGs.
 
 
 
@@ -16,16 +17,19 @@ His **research work** focuses on tackling problems in **Natural Language Underst
 
 
 
-He takes leads in championing **Artificial Intelligence for Social Good**, tackling and solving complex business and societal problems/challenges through the lens of the UN SDGs. His work is geared towards making real-world social, health, wellbeing, and financial impact for companies and people’s lives, and bringing the world into a more equitable, prosperous, and sustainable path.
+He has been invited to speak at various local, and international highly esteemed, and prestigious AI Workshops, meetups, and conferences.
 
-As an **AI Community Leader** and Innovator, he is passionate about tech communities, innovations, and harnessing the power of data and AI technology to make a better and easier tomorrow.
+His research work, and interests are in Natural Language Understanding, specifically Automatic Text Summarization, Question Answering, and Information Extraction areas.
 
-He is actively involved with various **AI Hubs** and **data-centric communities** (**AWS Educate Cloud Ambassador Program**, **deeplearning.ai Ambassador**, and the **Google Developer Student Clubs**), empowering, supporting, mentoring and strengthening them, to build, innovate, shape, transform and ride with the wave of Artificial Intelligence.
+He is a Data Journalist, highly talented with a penchant for reporting informative, educative, interesting, and engaging data stories, and content.
+
+His mission in the AI field is geared towards making that real-world social, health, wellbeing, and financial impact for companies, and people’s lives, to power social-economic development, and bringing the world into a more equitable, prosperous, and sustainable path.
+
+His work, and stories in the data world have been greatly featured by various publications, and Newspapers such as the Daily Nation Newspaper (East African Most Read Newspaper), KDnuggets, Medium, AI Time Journal, Deeplearning.AI and numerous business magazines.
 
 
 
-Do check out and follow my work on Natural Language Processing and Data Science Journalism on Medium, Reddit, Linkedin and on my Personal Blog.
-Connect with me 😃
+
 
 
 <a href="https://www.linkedin.com/in/kennedykwangari/">LinkedIn</a>  
