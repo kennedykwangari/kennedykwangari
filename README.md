@@ -1,4 +1,4 @@
-#### ** Kennedy Wangari is a renowned Data Professional based in Nairobi Kenya. An AI Community Lead, Innovator, and Data Journalist who is passionate about tech communities, and harnessing the power of data and innovative AI technology to make easier, and better lives tomorrow.
+#### **Kennedy Wangari is a renowned Data Professional based in Nairobi Kenya. An AI Community Lead, Innovator, and Data Journalist who is passionate about tech communities, and harnessing the power of data and innovative AI technology to make easier, and better lives tomorrow.
 
   
 💬 He is a firm believer in open source: that words, knowledge, and ideas should be accessible to everyone.
