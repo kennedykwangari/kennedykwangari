@@ -30,8 +30,3 @@
 💬 His work, and stories in the data world have been greatly featured by various publications, and Newspapers such as the Daily Nation Newspaper (East African Most Read Newspaper), KDnuggets, Medium, AI Time Journal, Deeplearning.AI and numerous business magazines.
 
 
-
-<a href="https://www.linkedin.com/in/kennedykwangari/">LinkedIn</a> 
-
-
-          
