@@ -9,11 +9,12 @@
 	
 </p>
 
-🧑🏽‍💻 Kennedy Wangari is an award winning Data Scientist, Technical AI Community Lead: Deeplearning.AI Nairobi Community and the Founder of ’Data Interviews Decoded’, an excellent quest for the data science and machine learning enthusiasts to learn, practice, solve simulated mock technical interviews, ace their interviews, and become effective hires who land their dream data jobs. <br>
+Kennedy Wangari is an award winning Data Scientist, Technical AI Community Lead: Deeplearning.AI Nairobi Community and the Founder of ’Data Interviews Decoded’, an excellent quest for the data science and machine learning enthusiasts to learn, practice, solve simulated mock technical interviews, ace their interviews, and become effective hires who land their dream data jobs. <br>
 
-🚀 Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: The Data Captain from Africa.<br>
+Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: The Data Captain from Africa.<br>
 
-💻 He is actively building, and growing highly impactful tech/ AI developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.<br>
+
+He is actively building, and growing highly impactful tech/ AI developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow.<br>
 
 
 ---
