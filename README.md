@@ -1,3 +1,4 @@
-# Your blog
+### Hi there 👋, I am Kennedy Kamande Wangari
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpeg" width="450" height="320" />
+
