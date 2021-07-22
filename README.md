@@ -19,7 +19,8 @@ Kennedy is inspiring, educating, empowering, engaging, and driving today’s pro
 
 ---
 
-👉 Me on the Internt:
+👉 Me on the Internet:
+
 ## Social Media Profiles
 
 - Twitter: [@kennedykwangari](https://github.com/kennedykwangari)
