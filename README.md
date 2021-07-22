@@ -19,7 +19,13 @@ Kennedy is inspiring, educating, empowering, engaging, and driving today’s pro
 
 ---
 
-👉 Follow me on Twitter or other Internet places I am available below:
+👉 Me on the Internt:
+## Social Media Profiles
+
+- Twitter: [@kennedykwangari](https://github.com/kennedykwangari)
+- LinkedIn: [Kennedy Wangari](https://www.linkedin.com/in/kennedykwangari/)
+- Reddit: [Kennedy Wangari](https://www.reddit.com/user/KennedyKWangari)
+
 
 <br>
 <p align="center">
