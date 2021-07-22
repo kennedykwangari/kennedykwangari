@@ -4,7 +4,7 @@
 <br>
 <p align="center">
 	<a href="https://twitter.com/kennedykwangari"><img src="https://img.shields.io/twitter/follow/Kennedykwangari?label=@Kennedykwangari&style=social" alt="Twitter"></a>  
-	<a href="https://www.linkedin.com/in/kennedykwangari/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
+	<a href="https://www.linkedin.com/in/kennedykwangari/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/kennedykwangari"><img src="https://img.shields.io/github/followers/kennedykwangari.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 	
@@ -20,6 +20,7 @@ Kennedy is inspiring, educating, empowering, engaging, and driving today’s pro
 
 
 ![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedykwangari&show_icons=true&theme=great-gatsby)
+
 ---
 
 ## Social Media Profiles:
@@ -29,6 +30,8 @@ Kennedy is inspiring, educating, empowering, engaging, and driving today’s pro
 - Reddit: [Kennedy Wangari](https://www.reddit.com/user/KennedyKWangari)
 
 **I'm always open to interesting conversations and collaborations.** [Contact Me](https://github.com/kennedykwangari.github.io/contact/)
+
+![](https://komarev.com/ghpvc/?username=kennedykwangari&color=blue)
 
 
 <br>
