@@ -20,9 +20,7 @@ Kennedy is inspiring, educating, empowering, engaging, and driving today’s pro
 
 ---
 
-👉 Me on the Internet:
-
-## Social Media Profiles
+## Social Media Profiles:
 
 - Twitter: [@kennedykwangari](https://github.com/kennedykwangari)
 - LinkedIn: [Kennedy Wangari](https://www.linkedin.com/in/kennedykwangari/)
