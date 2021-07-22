@@ -28,7 +28,8 @@ Kennedy is inspiring, educating, empowering, engaging, and driving today’s pro
 - LinkedIn: [Kennedy Wangari](https://www.linkedin.com/in/kennedykwangari/)
 - Reddit: [Kennedy Wangari](https://www.reddit.com/user/KennedyKWangari)
 
-**Collaboration opportunities?** [Contact me](https://github.com/kennedykwangari.github.io/contact/)
+**I'm always open to interesting conversations and collaborations.** [Contact Me](https://github.com/kennedykwangari.github.io/contact/)
+
 
 <br>
 <p align="center">
