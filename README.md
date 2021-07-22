@@ -10,6 +10,7 @@
 	
 </p>
 
+
 Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at Deeplearning.AI: growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow. <br>
 
 Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: The Data Captain from Africa.<br>
@@ -18,6 +19,7 @@ Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has
 Kennedy is inspiring, educating, empowering, engaging, and driving today’s professional thoughtful conversations on LinkedIn, Mainstream Media on TV, Radio, Print journalism, policy debates, webinars, and expert sessions..<br>
 
 
+![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedykwangari&show_icons=true&theme=great-gatsby)
 ---
 
 ## Social Media Profiles:
