@@ -11,12 +11,17 @@
 </p>
 
 
-Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at Deeplearning.AI: growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow. <br>
+Kennedy Wangari is an award winning Data Scientist, Developer Advocate, Technical AI Community Lead, and Innovator: actively growing highly impactful tech/ developer communities in Sub-Saharan Africa. He is a firm believer in open source: that words, knowledge, and ideas should be  accessible to everyone. <br>
 
-Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: The Data Captain from Africa.<br>
+He is a key advocate, and promoter of the Sustainable Development Goal 4: promoting data science education/ world-class AI education for all in Kenya and Sub-Saharan Africa have been his top priority agenda.<br>
+
+Kennedy is spearheading significant initiatives and developer communities educational partnerships and collaborations with NVIDIA AI, PACKT, DataCamp and recently Facebook AI Research.<br>
+
+He is actively growing, contributing, and designing training programs to empower, support, and strengthen the professional development of new African AI talent.
 
 
-Kennedy is inspiring, educating, empowering, engaging, and driving today’s professional thoughtful conversations on LinkedIn, Mainstream Media on TV, Radio, Print journalism, policy debates, webinars, and expert sessions..<br>
+
+His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have been recognized and honored by Google, NVIDIA, Zindi Africa, Dr. Andrew Ng, Deeplearning.AI, Oracle Africa, and earned us the honorary title: The Data Captain from Africa. <br>
 
 
 ![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedykwangari&show_icons=true&theme=great-gatsby)
