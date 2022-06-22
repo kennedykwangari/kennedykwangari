@@ -35,8 +35,6 @@ Coursera, Deeplearning.AI, Oracle Africa, Dr. Andrew Ng, and the Ministry of Edu
 - LinkedIn: [Kennedy Wangari](https://www.linkedin.com/in/kennedykwangari/)
 - Reddit: [Kennedy Wangari](https://www.reddit.com/user/KennedyKWangari)
 
-**I'm always open to interesting conversations and collaborations.** [Contact Me](https://github.com/kennedykwangari.github.io/contact/)
-
 ![](https://komarev.com/ghpvc/?username=kennedykwangari&color=blue)
 
 
