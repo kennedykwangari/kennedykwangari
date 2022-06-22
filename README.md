@@ -10,18 +10,19 @@
 	
 </p>
 
+Kennedy Wangari is an award-winning Data Scientist, Developer Advocate, and a Tech Community Builder. <br>
 
-Kennedy Wangari is an award winning Data Scientist, Developer Advocate, Technical AI Community Lead, and Innovator: actively growing highly impactful tech/ developer communities in Sub-Saharan Africa. He is a firm believer in open source: that words, knowledge, and ideas should be  accessible to everyone. <br>
+He is the catalyst that brings your brand, stakeholders, data, technology and decisions together to build and deliver better products, create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact. <br>
 
-He is a key advocate, and promoter of the Sustainable Development Goal 4: promoting data science education/ world-class AI education for all in Kenya and Sub-Saharan Africa have been his top priority agenda.<br>
+He is a key advocate and promoter of the Sustainable Development Goal 4: Promoting data science education for all. <br>
 
-Kennedy is spearheading significant initiatives and developer communities educational partnerships and collaborations with NVIDIA AI, PACKT, DataCamp and recently Facebook AI Research.<br>
+Helping bridge the technology skills gap for the underserved talents in Kenya and globally is his top priority agenda.<br>
 
-He is actively growing, contributing, and designing training programs to empower, support, and strengthen the professional development of new African AI talent.
+We’ve developed initiatives and tailored programs that drive greater inclusion and diversity in the data science field through providing free data educational and professional opportunities to over 9,000+ highly deserving Kenyans and the black community at large.
 
 
 
-His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have been recognized and honored by Google, NVIDIA, Zindi Africa, Dr. Andrew Ng, Deeplearning.AI, Oracle Africa, and earned us the honorary title: The Data Captain from Africa. <br>
+Coursera, Deeplearning.AI, Oracle Africa, Dr. Andrew Ng, and the Ministry of Education (Kenya)🏅 have feted Kennedy for his advocacy efforts and contributions in increasing the participation, inclusivity, representation and diversity of the black people in the data field, and creating robust pipelines of qualified, trained and talented tech professionals. <br>
 
 
 ![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedykwangari&show_icons=true&theme=great-gatsby)
