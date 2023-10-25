@@ -32,11 +32,6 @@ He shares his passion for a sustainable data literate world through public speak
 
 <br>
 
-
-![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedykwangari&show_icons=true&theme=great-gatsby)
-
----
-
 ## Social Media Profiles:
 
 - Twitter: [@kennedykwangari](https://github.com/kennedykwangari)
