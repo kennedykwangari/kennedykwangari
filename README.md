@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="380" height="380" />
+<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="380" height="400" />
 <br>
 
 🎯 Kennedy is a Data Scientist, Technology Community Builder, Technology Columnist and an AI Researcher; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
@@ -28,6 +28,7 @@ He shares his passion for a sustainable data literate world through public speak
 - Twitter: [@kennedykwangari](https://github.com/kennedykwangari)
 - LinkedIn: [Kennedy K. Wangari](https://www.linkedin.com/in/kennedykwangari/)
 - Muck Rack: [Kennedy K. Wangari](https://muckrack.com/kennedykwangari)
+- Personal Blog: [Kennedy K. Wangari](https://kennedykwangari.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=kennedykwangari&color=blue)
 
