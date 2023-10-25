@@ -10,19 +10,27 @@
 	
 </p>
 
-Kennedy Wangari is an award-winning Data Scientist, Developer Advocate, and a Tech Community Builder. <br>
+Kennedy is a Data Scientist, Technology Community Builder, Technology Columnist and an AI Researcher; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
+
+<br>
 
 He is the catalyst that brings your brand, stakeholders, data, technology and decisions together to build and deliver better products, create delightful customer experiences, resulting in accelerated💰 growth 📈 and impact. <br>
 
-He is a key advocate and promoter of the Sustainable Development Goal 4: Promoting data science education for all. <br>
+Previously, he has worked at UNEP 🇺🇳, NVIDIA, Xetova and NCBA Bank to deliver high-impact data products and services –from data strategy consulting to end-to-end project implementation across the marketing, supply chain, finance and environment fields.
 
-Helping bridge the technology skills gap for the underserved talents in Kenya and globally is his top priority agenda.<br>
+<br>
 
-We’ve developed initiatives and tailored programs that drive greater inclusion and diversity in the data science field through providing free data educational and professional opportunities to over 9,000+ highly deserving Kenyans and the black community at large.
+His research work seeks to enhance a better understanding of the societal and environmental impacts of AI models, datasets and systems.  
+
+<br>
+
+As a Technology Columnist he is on a mission to educate, inform and entertain Africa about emerging technologies, trends and developments in ways that inspire innovation.
+
+<br>
+He shares his passion for a sustainable data literate world through public speaking opportunities, featuring in blogs, videos, workshops, research papers publications, journals and through various media outlets: Mainstream Television, Radio,  Print Media.
 
 
-
-Coursera, Deeplearning.AI, Oracle Africa, Dr. Andrew Ng, and the Ministry of Education (Kenya)🏅 have feted Kennedy for his advocacy efforts and contributions in increasing the participation, inclusivity, representation and diversity of the black people in the data field, and creating robust pipelines of qualified, trained and talented tech professionals. <br>
+<br>
 
 
 ![Kennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennedykwangari&show_icons=true&theme=great-gatsby)
