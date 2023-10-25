@@ -1,5 +1,3 @@
-### Hi there 👋, I am Kennedy Kamande Wangari
-
 <img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="360" height="360" />
 <br>
 
@@ -28,8 +26,8 @@ He shares his passion for a sustainable data literate world through public speak
 ## Social Media Profiles:
 
 - Twitter: [@kennedykwangari](https://github.com/kennedykwangari)
-- LinkedIn: [Kennedy Wangari](https://www.linkedin.com/in/kennedykwangari/)
-- Reddit: [Kennedy Wangari](https://www.reddit.com/user/KennedyKWangari)
+- LinkedIn: [Kennedy K. Wangari](https://www.linkedin.com/in/kennedykwangari/)
+- Muck Rack: [Kennedy K. Wangari](https://muckrack.com/kennedykwangari)
 
 ![](https://komarev.com/ghpvc/?username=kennedykwangari&color=blue)
 
