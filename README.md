@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="360" height="360" />
+<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="380" height="380" />
 <br>
 
 Kennedy is a Data Scientist, Technology Community Builder, Technology Columnist and an AI Researcher; at the frontline, improving technical systems’ social impact and ensuring people-centric technological development for societal good.
