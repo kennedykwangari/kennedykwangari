@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kennedy Kamande Wangari
 
-<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="350" height="300" />
+<img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpg" width="360" height="360" />
 <br>
 <p align="center">
 	<a href="https://twitter.com/kennedykwangari"><img src="https://img.shields.io/twitter/follow/Kennedykwangari?label=@Kennedykwangari&style=social" alt="Twitter"></a>  
